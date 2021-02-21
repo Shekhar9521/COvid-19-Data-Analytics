@@ -1,2 +1,2 @@
-# COvid-19-Data-Analytics
+# Covid-19-Data-Analytics
 Analyzing Covid-19 Data 
