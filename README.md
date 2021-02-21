@@ -1,2 +1,2 @@
 # Covid-19-Data-Analytics
-Analyzing Covid-19 Data 
+Analyzing Covid-19 Data provided in thw Kaggle 
