@@ -1,2 +1,2 @@
 # Covid-19-Data-Analytics
-Analyzing Covid-19 Data provided in the Kaggle.
+I did the Covid-19 Analysis with the help of the data provided Kaggle.  
